@@ -3,6 +3,9 @@ title: "Visualising BAM files"
 author: "Paul Theodor Pyl"
 date: "19 Jun 2015"
 output: html_document
+vignette: >
+  %\VignetteIndexEntry{Visualising BAM files}
+  %\VignetteEngine{knitr::rmarkdown}
 ---
 
 # Creating informative visualisations of genomic regions from a set of `.bam` files
