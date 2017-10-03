@@ -1,8 +1,8 @@
 Package: bamvis
 Title: Visualising BAM files
-Version: 1.0.0
+Version: 1.0.1
 Date: 2017-09-05
-Authors@R: c(person(role="aut", given="Paul", middle="Theodor", family="Pyl", email = "pyl@embl.de"))
+Authors@R: person(role=c("aut", "cre"), given="Paul Theodor", family="Pyl", email = "pyl@embl.de")
 Description: In this workflow we will create overview plots of genomic regions that give an overview of the coverage and mismatches in a set of `.bam` files in a given genomic region.
 Depends: R (>= 3.3.0),
         h5vc,
